@@ -1,6 +1,4 @@
-# Basic Mathematical Operations
-
-### 8th Kyu
+# Basic Mathematical Operations - 8th Kyu for JavaScript
 
 ## The Problem
 Your task is to create a function that does four basic mathematical operations.
